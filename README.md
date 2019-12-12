@@ -2,9 +2,7 @@
 								
 # References: 
 		1.https://onlinetaxbazar.azurewebsites.net (Live Demo For 2019-2020)
-		2.https://github.com/vipulvyas/Online-Tax-Management (Source Code)(Uploaded Version wise)
-		3.https://github.com/kevaltalaviya/Tax-Management-Syatem
-		4.https://github.com/shubhamvekariya/Online-Tax-Management
+		2.https://github.com/shubhamvekariya/Online-Tax-Management
 			 
 # Technologies: 
 		HTML5, CSS3, Bootstrap4, Javascript, Jquery, ASP.NET MVC 5 with C#.
@@ -39,22 +37,13 @@
 			
 # Contributors:
 		1.Keval Talaviya
-		   
-		   Roll no: CE133
-		   Identity no: 17CEUOS077
-		   email: kevaltalaviya122@gmail.com
+		  email: kevaltalaviya122@gmail.com
 		   
 		2.Shubham Vekariya
-
-		   Roll no: CE145
-		   Identity no: 17CEUOS111
-		   email: shubhamvekariya402@gmail.com
+		  email: shubhamvekariya402@gmail.com
 
 		3.Vipul Vyas
-		  
-		   Roll no: CE146
-		   Identity no: 17CEUBG009
-		   email: vipulvyas0813@gmail.com
+		  email: vipulvyas0813@gmail.com
 
 
 # Guidance By:
